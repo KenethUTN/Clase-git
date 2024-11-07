@@ -1,6 +1,6 @@
-#estudiante
+#keneth
 
-class Estudiante():
+class Keneth():
     def __init__(self, nombre):
         self.nombre = nombre
 
