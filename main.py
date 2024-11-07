@@ -1,9 +1,7 @@
-from estudiantes import ejemplo, keneth
+from estudiantes import ejemplo
 
 if __name__ == '__main__':
     estudiante = ejemplo.Estudiante("Ejemplo")
     estudiante.saludar()
     
-    Keneth = keneth.Keneth("Keneth")
-    Keneth.saludar()
     
