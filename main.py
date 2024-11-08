@@ -1,10 +1,16 @@
 from estudiantes import ejemplo
 from estudiantes import yohel
+from estudiantes import keneth
 
 if __name__ == '__main__':
-    estudiante = ejemplo.Estudiante("Ejemplo")
+    estudiante = ejemplo.Estudiante("Ejemplo", 00)
     estudiante.saludar()
+
+    KENETH = keneth.Keneth("Keneth", 21)
+    KENETH.saludar()
+
+
+
     
-    YOHEL = yohel.Yohel("Yohel")
+    YOHEL = yohel.Yohel("Yohel", 23)
     YOHEL.saludar()
-    
