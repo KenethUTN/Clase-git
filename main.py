@@ -10,8 +10,4 @@ if __name__ == '__main__':
     Bairon.saludar()
     KENETH = keneth.Keneth("Keneth", 21)
     KENETH.saludar()
-
-
-
-    
     
