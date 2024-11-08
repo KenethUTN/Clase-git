@@ -8,4 +8,5 @@ class Keneth():
     def saludar(self):
         print("Nombre: " + self.nombre)
         print("Edad: " + str(self.edad))
+
         print("Edad: " + str(self.edad))
