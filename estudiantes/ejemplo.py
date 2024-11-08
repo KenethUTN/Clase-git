@@ -7,4 +7,4 @@ class Estudiante():
 
     def saludar(self):
         print("Nombre: " + self.nombre)
-        print("Edad: " + self.edad)
+        print("Edad: " + str(self.edad))

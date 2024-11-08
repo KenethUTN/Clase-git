@@ -4,9 +4,10 @@ from estudiantes import keneth
 
 if __name__ == '__main__':
     estudiante = ejemplo.Estudiante("Ejemplo", 11)
+    estudiante = ejemplo.Estudiante("Ejemplo", 00)
     estudiante.saludar()
 
-    KENETH = keneth.Keneth("Keneth")
+    KENETH = keneth.Keneth("Keneth", 21)
     KENETH.saludar()
 
 
