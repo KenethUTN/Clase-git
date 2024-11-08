@@ -1,4 +1,5 @@
 from estudiantes import ejemplo
+from estudiantes import daniel
 from estudiantes import dayron
 from estudiantes import bairon
 from estudiantes import keneth
@@ -13,6 +14,10 @@ if __name__ == '__main__':
     KENETH = keneth.Keneth("Keneth", 21)
     KENETH.saludar()
     
+
+    DANIEL = daniel.Daniel("Daniel", 22)
+    DANIEL.saludar()
+
     DAYRON = dayron.Dayron("Dayron", 20)
     DAYRON.saludar()
     
