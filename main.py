@@ -2,8 +2,12 @@ from estudiantes import ejemplo
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+from estudiantes import Justin
+=======
+<<<<<<< HEAD
 from estudiantes import mariaj
 =======
+>>>>>>> da2f864286bd5cd39594ab548f15010e1e6d3c9d
 =======
 from estudiantes import daniel
 >>>>>>> 3e393071a51a56881a15c950ea9af1de4927ccc1
@@ -15,7 +19,16 @@ from estudiantes import bairon
 from estudiantes import keneth
 
 if __name__ == '__main__':
+<<<<<<< HEAD
+    estudiante = ejemplo.Estudiante("Ejemplo",00)
+    estudiante.saludar()
+
+    JUSTIN = Justin.Justin("Justin",21)
+    JUSTIN.saludar()
+    KENETH = keneth.Keneth("Keneth",18)
+=======
     estudiante = ejemplo.Estudiante("Ejemplo", 11)
+>>>>>>> da2f864286bd5cd39594ab548f15010e1e6d3c9d
     estudiante = ejemplo.Estudiante("Ejemplo", 00)
     estudiante.saludar()
 
