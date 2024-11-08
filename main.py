@@ -6,6 +6,6 @@ if __name__ == '__main__':
     estudiante.saludar()
 
 
-    deyfran = deyfran.deyfran("deyfran")
+    deyfran = deyfran.deyfran("deyfran", 21)
     deyfran.saludar()
     
