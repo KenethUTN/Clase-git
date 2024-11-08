@@ -1,7 +1,7 @@
 #keneth
 
 class Keneth():
-    def __init__(self, nombre,edad):
+    def __init__(self, nombre, edad):
         self.nombre = nombre
         self.edad = edad
 
