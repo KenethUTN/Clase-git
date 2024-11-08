@@ -2,6 +2,7 @@ from estudiantes import ejemplo
 from estudiantes import dayron
 from estudiantes import bairon
 from estudiantes import keneth
+from estudiantes import Emma
 
 if __name__ == '__main__':
     estudiante = ejemplo.Estudiante("Ejemplo", 00)
@@ -15,4 +16,5 @@ if __name__ == '__main__':
     DAYRON = dayron.Dayron("Dayron", 20)
     DAYRON.saludar()
     
-    
+    EMMA = Emma.Emma("Emma",22)
+    EMMA.saludar()
